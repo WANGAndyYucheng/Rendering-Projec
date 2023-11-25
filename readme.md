@@ -33,9 +33,9 @@ The following codes are implemented from scratch:
 - \* denotes reference from existing source codes 
 - \+ denotes mentioned in the Report
 
-<img src="https://s2.loli.net/2022/12/14/CHMFNEG3kwAduyv.png" width="50%">
+<img src="https://s2.loli.net/2022/12/14/CHMFNEG3kwAduyv.png" width="70%">
 
 The following codes are referred from existing source codes but with adjustments:
 
-<img src="https://s2.loli.net/2022/12/14/YSjmZLNEzgGtMTD.png" width="50%">
+<img src="https://s2.loli.net/2022/12/14/YSjmZLNEzgGtMTD.png" width="70%">
 
